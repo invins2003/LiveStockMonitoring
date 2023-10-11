@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FARM WATCH</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic291bXlhNTQ2MyIsImEiOiJjbG1ycHdqamgwOXdvMmtudDU4bjdwcmI1In0.IBBqJ6dIkqoyGxNpbL1L7g</string>
+</resources>
